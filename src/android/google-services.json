@@ -1,0 +1,70 @@
+{
+    "project_info": {
+        "project_number": "255484573457"
+        , "firebase_url": "https://commontime-presales.firebaseio.com"
+        , "project_id": "commontime-presales"
+        , "storage_bucket": "commontime-presales.appspot.com"
+    }
+    , "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:255484573457:android:c14650c34002399c"
+                , "android_client_info": {
+                    "package_name": "com.commontime.planconnect"
+                }
+            }
+            , "oauth_client": [
+                {
+                    "client_id": "255484573457-1s910oblhjql273bik4s0vl3dqtmvvhj.apps.googleusercontent.com"
+                    , "client_type": 1
+                    , "android_info": {
+                        "package_name": "com.commontime.planconnect"
+                        , "certificate_hash": "b5f942c415845d5d854c2917885c5363ab952541"
+                    }
+        }
+                , {
+                    "client_id": "255484573457-i0ht24iu5uiubjits4ffp0vmtus34fea.apps.googleusercontent.com"
+                    , "client_type": 1
+                    , "android_info": {
+                        "package_name": "com.commontime.planconnect"
+                        , "certificate_hash": "98a579e6024e69c56aa5978a34ec59168786cc86"
+                    }
+        }
+                , {
+                    "client_id": "255484573457-trodf8ql7vm2jac0onpsjagdvnbm9lgi.apps.googleusercontent.com"
+                    , "client_type": 3
+        }
+      ]
+            , "api_key": [
+                {
+                    "current_key": "AIzaSyDeMuj0hkogCYF_iylgsvIpNnrRjcMkcGY"
+        }
+      ]
+            , "services": {
+                "analytics_service": {
+                    "status": 1
+                }
+                , "appinvite_service": {
+                    "status": 2
+                    , "other_platform_oauth_client": [
+                        {
+                            "client_id": "255484573457-trodf8ql7vm2jac0onpsjagdvnbm9lgi.apps.googleusercontent.com"
+                            , "client_type": 3
+            }
+                        , {
+                            "client_id": "255484573457-2bjbtie3fu5e1f56t2p7ef17trjuaq1b.apps.googleusercontent.com"
+                            , "client_type": 2
+                            , "ios_info": {
+                                "bundle_id": "com.commontime.planconnect"
+                            }
+            }
+          ]
+                }
+                , "ads_service": {
+                    "status": 2
+                }
+            }
+    }
+  ]
+    , "configuration_version": "1"
+}
